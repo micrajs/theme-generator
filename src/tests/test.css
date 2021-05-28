@@ -1,0 +1,19 @@
+:root {
+  --root: val;
+  --colors-black: #000;
+  --colors-red: #f00;
+  --colors-green: #0f0;
+  --colors-blue: #00f;
+  --colors-overlay: rgba(0, 0, 0, 0.1);
+  --opacity-10: 0.1;
+  --font-family-serif: Georgia, serif;
+  --text-colors-black: var(--colors-black);
+  --text-colors-red: var(--colors-red);
+  --text-colors-green: var(--colors-green);
+  --text-colors-blue: var(--colors-blue);
+  --text-colors-overlay: var(--colors-overlay);
+  --background-colors-root: var(--root);
+  --background-colors-black: var(--colors-black);
+  --background-colors-white-overlay: rgba(255, 255, 255, 0.5);
+  --background-colors-overlay: rgba(0, 0, 0, 0.5);
+}

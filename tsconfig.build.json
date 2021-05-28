@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "app/*": ["cli/app/*"],
+      "config": ["cli/config.ts"],
+      "domains/*": ["cli/domains/*"],
+      "helpers/*": ["cli/helpers/*"],
+      "resolvers/*": ["cli/resolvers/*"]
+    }
+  },
+  "include": ["**/*.ts", "**/*.d.ts"],
+  "exclude": ["node_modules", ".config/**/*", "**/testing/**/*", "**/tests/**/*"]
+}
