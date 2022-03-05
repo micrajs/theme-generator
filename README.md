@@ -5,9 +5,9 @@
 <h1 align="center">@micra/theme-generator</h1>
 
 <p align="center">
-  <img alt="version" src="https://img.shields.io/npm/v/@micra/theme-generator.svg">
-  <img alt="issues" src="https://img.shields.io/github/issues/micrajs/library-template.svg">
-  <img alt="prs" src="https://img.shields.io/github/issues-pr/micrajs/library-template.svg">
+  <img alt="version" src="https://img.shields.io/npm/v/@micra/theme-generator.svg" />
+  <img alt="issues" src="https://img.shields.io/github/issues/micrajs/library-template.svg" />
+  <img alt="prs" src="https://img.shields.io/github/issues-pr/micrajs/library-template.svg" />
 </p>
 
 <hr />
