@@ -14,8 +14,6 @@
 
 ## About
 
-<!-- TODO -->
-
 ## Installation
 
 ```sh
